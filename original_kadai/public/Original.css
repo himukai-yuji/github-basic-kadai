@@ -4,10 +4,12 @@ header{
 	text-align: center;
 	margin: 0px 20px auto auto;	
 }
+/*
 h1{
 	margin: 0px;
 	color: #ffffff;
 }
+*/
 #container{
 	display: flex;
 	justify-content: space-around;
@@ -19,6 +21,7 @@ h1{
 	margin: 20px 0px;
 	text-align: center;
 }
+/*
 h2::before{
 	content: "●";
 	color: #ef6f8b;
@@ -26,6 +29,7 @@ h2::before{
 h2{
 	border-bottom: dotted 3px #ef6f8b;
 }
+*/
 .item th span {
 	 font-weight: bold;
     font-size: 1.2rem;
